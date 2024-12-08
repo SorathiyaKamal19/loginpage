@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "kamal",
+      "password": "kamal@123"
+    },
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin@123"
+    },
+    {
+      "id": "b49c",
+      "firstname": "Melyssa",
+      "lastname": "Keller",
+      "email": "hobubov@mailinator.com",
+      "phone": "+1 (401) 469-3384",
+      "username": "gicagana",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "6dd0",
+      "firstname": "Madaline",
+      "lastname": "Rivers",
+      "email": "papaj@mailinator.com",
+      "phone": "+1 (418) 414-3211",
+      "username": "piyu",
+      "password": "piyu@123"
+    },
+    {
+      "id": "f83a",
+      "firstname": "Buffy",
+      "lastname": "Church",
+      "email": "fowyxozan@mailinator.com",
+      "phone": "+1 (798) 571-1078",
+      "username": "fiwuxycul",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "e587",
+      "firstname": "Lydia",
+      "lastname": "Blanchard",
+      "email": "vilyqyv@mailinator.com",
+      "phone": "+1 (778) 242-9857",
+      "username": "pezygudake",
+      "password": "Pa$$w0rd!"
+    }
+  ]
+}
